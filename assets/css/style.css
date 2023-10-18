@@ -1,4 +1,4 @@
-/* Google fonts import */
+/* google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
 
@@ -23,6 +23,10 @@ body {
 /*Header*/
 header {
     background-color: lightseagreen;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
 }
 
 /*Main content*/
